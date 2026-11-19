@@ -1,0 +1,6 @@
+name: Reaction Duel v7.1
+description: One-click connection, LED scores and RGB reaction games
+icon: "🎮"
+ports:
+  - 8765
+bricks: []
